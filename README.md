@@ -20,7 +20,8 @@
 
 Стартовая страница:
 
-![](Aspose.Words.24668221-0305-47e3-b5e9-7c35a850ce2d.001.png)
+<p align="center">
+<img src="https://github.com/Mukusha/Notes/tree/main/readme_assets/Aspose.Words.24668221-0305-47e3-b5e9-7c35a850ce2d.001.png" width="80%"></p>
 
 При нажатии на “**+**”  открывается новое окно - добавления новой заметки:
 
