@@ -47,4 +47,6 @@
  
  <p align="center"><img  src="./readme_assets/Aspose.Words.24668221-0305-47e3-b5e9-7c35a850ce2d.006.png" width="30%"></p>
 
+**Стек технологий**
 
+IntelliJ IDEA, SceneBuilder, SQLite, Javafx, Maven, JDBC.
