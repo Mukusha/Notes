@@ -1,8 +1,0 @@
-com\note\Controllers\updateNoteController.class
-com\note\Controllers\addNoteController.class
-com\note\Controllers\Note.class
-com\note\Controllers\HelloController.class
-com\note\NotesApplication.class
-com\note\MainLauncher.class
-module-info.class
-com\note\Controllers\requestsSQLite.class
